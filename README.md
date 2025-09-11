@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>- 🎓 I’m currently a Software Engineering student at **ICET** and an undergraduate at **ICBT Campus**<br>- 🔭 I’m currently working on projects like **Rath Nova platform backend** and **AI Watch & Glow e-commerce**<br>- 🤝 I’m looking to collaborate on **web, mobile, and system development projects**<br>- 🌱 I’m currently learning **PHP, MySQL, Firebase, and backend development**<br>- 💬 Ask me about **Java, Android Studio, SQL Server, Firebase, and system design**<br>- ⚡ Fun fact: I also love creating adventure vlogs about **Sri Lanka’s hidden spots** 🌴🏍️<br>
+## 👋 About Me<br><br>- 🎓 I’m currently a Software Engineering student at **ICET** and an undergraduate at **ICBT Campus**<br>- 🔭 I’m currently working on projects like **Rath Nova platform backend** and **AI Watch & Glow e-commerce**<br>- 🤝 I’m looking to collaborate on **web, mobile, and system development projects**<br>- 🌱 I’m currently learning **Java, MySQL, Firebase, and backend development**<br>- 💬 Ask me about **Java, Android Studio, SQL Server,  system design**<br>- ⚡ Fun fact: I also love creating adventure vlogs about **Sri Lanka’s hidden spots** 🌴🏍️<br>
 
 
 ## 🌐 Socials:
