@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f468-200d-1f4bb.png" alt="Man Technologist" width="50px"/>
+
 <h1 display="inline">Mohomed Inshaf</h1>
 
 ### ⚡ Full-Stack Developer | Aspiring Solution Engineer ⚡
@@ -64,6 +65,6 @@
   
   <br/><br/>
   
-
+  <img src="https://visitcount.itsvg.in/api?id=Mhdinshaf&icon=5&color=6" />
   
 </div>
