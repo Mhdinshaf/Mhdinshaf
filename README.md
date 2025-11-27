@@ -65,6 +65,6 @@
   
   <br/><br/>
   
-  <img src="https://visitcount.itsvg.in/api?id=Mhdinshaf&icon=5&color=6" />
+
   
 </div>
