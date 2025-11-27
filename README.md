@@ -3,11 +3,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h1 display="inline">Mohomed Inshaf</h1>
 
-### ⚡ Full-Stack Developer | Code Commander ⚡
-*Turning caffeine into code in Sri Lanka 🇱🇰*
+### ⚡ Full-Stack Developer | Aspiring Solution Engineer ⚡
+*Creative Technologist | Passionate About Building What’s Next*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=787AF0&background=00000000&center=true&vCenter=true&width=435&lines=Building+Digital+Galaxies;Java+%26+JavaScript+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=787AF0&background=00000000&center=true&vCenter=true&width=435&lines=Building+Digital+Galaxies;Java+%26+JavaScript+Developer;Creative+Technologist;Always+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -64,6 +64,6 @@
   
   <br/><br/>
   
-  <img src="https://visitcount.itsvg.in/api?id=Mhdinshaf&icon=5&color=6" />
+
   
 </div>
