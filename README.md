@@ -31,15 +31,15 @@
 <table align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>💻 Tech Arsenal</h3>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,tailwind&theme=dark" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,react,figma,git&theme=dark" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=vscode,idea,github,postman&theme=dark" />
-        </a>
-    </td>
+  <h3>💻 Tech Arsenal</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,js,dart,flutter,html,css&theme=dark" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs,react,figma,git&theme=dark" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,github,postman,tailwind,bootstrap&theme=dark" />
+    </a>
+</td>
     <td width="50%" align="center" valign="top">
       <h3>📊 Coding Activity</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=Mhdinshaf&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" height="150" alt="stats" />
