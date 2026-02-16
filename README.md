@@ -8,8 +8,7 @@
   <br/><br/>
   
   <a href="https://www.linkedin.com/in/mohomed-inshaf03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="YOUR_PORTFOLIO_OR_OTHER_LINK"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:your.real.email@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   
   <br/><br/>
   
@@ -25,12 +24,12 @@
 <br/>
 
 ### 👨‍💻 About Me
-
 Passionate **Software Engineering student** from Sri Lanka, specializing in **full-stack web development** with **Angular** + **Spring Boot**.  
-I love turning complex problems into clean, scalable, production-ready solutions — currently focused on enterprise-grade apps, microservices, and modern architecture.
+I love turning complex problems into clean, scalable, production-ready solutions.
 
-- 🔭 Building real-world projects with clean code & best practices    
-- 💼 Actively seeking **internships**, **trainee roles**, or **collaborative opportunities** in Full-Stack / Solution Engineering  
+- 🔭 Building real-world projects with clean code & best practices  
+- 🌱 Deep diving into **microservices**, **NgRx**, **Docker/Kubernetes**, **cloud-native**  
+- 💼 Actively seeking **internships**, **trainee roles**, or **collaborative opportunities**  
 
 <br/>
 
@@ -68,10 +67,35 @@ I love turning complex problems into clean, scalable, production-ready solutions
 
 <br/>
 
+### 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mhdinshaf&theme=react&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&border_radius=10" alt="Contribution Streak" />
+</div>
+</div>
+
+<br/>
+
+### 📈 Contribution Activity & Snake
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhdinshaf&custom_title=My%20Contribution%20Journey&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhdinshaf/Mhdinshaf/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mhdinshaf/Mhdinshaf/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mhdinshaf/Mhdinshaf/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <br/>
 
 ### 🎯 Current Focus & Learning
-
 <div align="center">
   <img src="https://img.shields.io/badge/🏗️_Microservices_Architecture-Active-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Advanced_Angular_&_NgRx-Mastering-DD0031?style=for-the-badge" />
@@ -82,7 +106,6 @@ I love turning complex problems into clean, scalable, production-ready solutions
 <br/>
 
 ### 💼 Open to Opportunities
-
 <table align="center" width="80%">
   <tr>
     <td align="center" width="50%">
@@ -105,13 +128,12 @@ I love turning complex problems into clean, scalable, production-ready solutions
 <br/>
 
 ### 🤝 Let's Connect!
-
 Excited to talk tech, collaborate, or explore internship possibilities.  
 Drop me a message — let's build something awesome! 🚀
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohomed-inshaf03/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your.real.email@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
