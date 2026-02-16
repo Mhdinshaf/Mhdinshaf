@@ -29,8 +29,7 @@
 Passionate **Software Engineering student** from Sri Lanka, specializing in **full-stack web development** with **Angular** + **Spring Boot**.  
 I love turning complex problems into clean, scalable, production-ready solutions — currently focused on enterprise-grade apps, microservices, and modern architecture.
 
-- 🔭 Building real-world projects with clean code & best practices  
-- 🌱 Deep diving into **microservices**, **cloud-native development**, **NgRx**, **Docker/K8s**  
+- 🔭 Building real-world projects with clean code & best practices    
 - 💼 Actively seeking **internships**, **trainee roles**, or **collaborative opportunities** in Full-Stack / Solution Engineering  
 
 <br/>
