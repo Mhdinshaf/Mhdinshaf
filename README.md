@@ -27,8 +27,7 @@
 Passionate **Software Engineering student** from Sri Lanka, specializing in **full-stack web development** with **Angular** + **Spring Boot**.  
 I love turning complex problems into clean, scalable, production-ready solutions.
 
-- 🔭 Building real-world projects with clean code & best practices  
-- 🌱 Deep diving into **microservices**, **NgRx**, **Docker/Kubernetes**, **cloud-native**  
+- 🔭 Building real-world projects with clean code & best practices   
 - 💼 Actively seeking **internships**, **trainee roles**, or **collaborative opportunities**  
 
 <br/>
@@ -99,8 +98,7 @@ I love turning complex problems into clean, scalable, production-ready solutions
 <div align="center">
   <img src="https://img.shields.io/badge/🏗️_Microservices_Architecture-Active-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Advanced_Angular_&_NgRx-Mastering-DD0031?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐳_Docker_&_Kubernetes-Hands--on-2496ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️_Cloud_Native_&_DevOps-Exploring-10B981?style=for-the-badge" />
+  
 </div>
 
 <br/>
