@@ -1,23 +1,16 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=99,63,102,111,138,147&height=160&section=header&text=Mohomed%20Inshaf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
   
-  <br/><br/>
-  
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Angular+%2B+Spring+Boot+Specialist+%E2%9A%A1;Building+Scalable+Enterprise+Solutions+%F0%9F%92%BB;Software+Engineering+Student+%7C+Open+to+Internships+%F0%9F%8C%9F" alt="Typing Animation" />
-  
-  <br/><br/>
-  
+  <br/>
   <a href="https://www.linkedin.com/in/mohomed-inshaf03/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:your.real.email@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  
-  <br/><br/>
-  
+  <br/>
   <img src="https://img.shields.io/badge/🎯_Focus-Full_Stack_Development-6366F1?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/📍_Sri_Lanka-🇱🇰-10B981?style=for-the-badge&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/✨_Open_to-Internships_&_Opportunities-F59E0B?style=for-the-badge&logoColor=white" alt="Opportunities">
-  
-  <br/><br/>
-  
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Mhdinshaf&style=for-the-badge&color=6366F1&label=Profile+Views" alt="Profile Views">
 </div>
 
